@@ -1,0 +1,1 @@
+{"uuid":"d502e7dd-ca99-4e4b-b35c-87b7dd404e77","name":"TestCase.InBoxTest","children":["9cf49ba8-1538-49d6-ae2f-0087f7df8d1c"],"befores":[{"name":"initialise","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1657941252296,"stop":1657941252369}],"afters":[],"links":[],"start":1657941252286,"stop":1657941280435}
